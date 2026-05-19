@@ -1,9 +1,8 @@
 # CleanupCrew
 
-M - prueba cambiar la vista al presionar boton
-P - prueba Cambiar vida jugador
-L - Cambio de material, ejemplo de replicacion
-B - Checar jugadores Disponibles
-N - Cambiar Material
+WASD    - Movimiento normal
+M2      - Ataque
+M1      - Reparar 
+Espacio - 
 
 
